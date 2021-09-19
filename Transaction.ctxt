@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Transaction
+comment0.text=\r\n\ class\ Transaction.\r\n\ This\ class\ controls\ all\ \r\n\ customer\ transactions\ in\ the\ bank.\r\n\r\n\ @author\ Daniel\ Ambrose\ &\ Starfranklyn\ Olivers\r\n\ @version\ v1.1\ 10\ December,\ 2020.\r\n
+comment1.params=transactionType\ amount
+comment1.target=Transaction(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ print()
+numComments=3

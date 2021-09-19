@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=personName\ personAddress\ personUsername\ passwordIn\ employeeNumber
+comment1.target=Employee(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ long)
+comment2.params=booking
+comment2.target=void\ addAppointment(Appointment)
+comment2.text=\r\n\ Add\ an\ appointment\ to\ the\ list.\r\n
+comment3.params=booking
+comment3.target=void\ removeAppointment(Appointment)
+comment3.text=\r\n\ Add\ an\ appointment\ to\ the\ list.\r\n
+comment4.params=
+comment4.target=void\ previewlist()
+comment4.text=\r\n\ A\ list\ of\ customer\ appointments\ (with\ date\ and\ to\ whom).\r\n
+comment5.params=
+comment5.target=void\ viewUpcoming()
+comment5.text=\r\n\ View\ their\ calendar\ for\ upcoming\ appointments\r\n
+comment6.params=
+comment6.target=void\ viewPast()
+comment6.text=\r\n\ Print\ a\ list\ of\ all\ appointments\r\n
+comment7.params=managerIn\ application
+comment7.target=void\ referCustomers(Manager,\ CustomerApplication)
+comment7.text=\r\n\ Refer\ customers\ to\ the\ branch\ manager\ for\ application\ processing.\r\n
+comment8.params=service
+comment8.target=void\ addFinancialService(java.lang.String)
+comment9.params=
+comment9.target=void\ employeeDetails()
+numComments=10

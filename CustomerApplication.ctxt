@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CustomerApplication
+comment0.text=\r\n\ class\ customerApplication.\r\n\ This\ class\ controls\ all\ customer\ \r\n\ application\ for\ bank\ services.\r\n\r\n\ @author\ Daniel\ Ambrose\ &\ Starfranklyn\ Olivers\r\n\ @version\ v1.1\ 10\ December,\ 2020.\r\n
+comment1.params=applicationIdIn\ applicationTypeIn\ commentIn
+comment1.target=CustomerApplication(long,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ customerApplications\r\n
+comment2.params=
+comment2.target=long\ getApplicationId()
+comment3.params=comment
+comment3.target=void\ setComment(java.lang.String)
+comment3.text=\r\n\ Enter\ a\ comment\ for\ this\ Customer\ Application.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getStatus()
+comment4.text=\r\n\ Return\ the\ comment\ for\ this\ Customer\ Application.\r\n
+comment5.params=
+comment5.target=void\ list()
+numComments=6
